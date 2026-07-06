@@ -44,10 +44,10 @@ Many interview problems become much easier after sorting the input first.
 | Algorithm | Status |
 |-----------|:------:|
 | Bubble Sort | ✅ |
-| Selection Sort | ⏳ |
-| Insertion Sort | ⏳ |
-| Merge Sort | ⏳ |
-| Quick Sort | ⏳ |
+| Selection Sort | ✅ |
+| Insertion Sort | ✅ |
+| Merge Sort | ✅ |
+| Quick Sort | ✅ |
 
 > ✅ Completed • ⏳ Planned
 
